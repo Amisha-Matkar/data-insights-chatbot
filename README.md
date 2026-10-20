@@ -2,11 +2,12 @@
 
 Ask questions about **any CSV file** in plain English and get back an answer, a table, a chart and the SQL behind it. Built with Python, Streamlit, DuckDB and Google Gemini.
 
-**🔗 Live app:** [ADD YOUR STREAMLIT LINK HERE]
+**🔗 Live app:** https://amisha-data-chatbot.streamlit.app
 
 **Example:** upload a car dataset and ask *"Which is the fastest car?"* → the app writes the SQL, runs it, shows the result and explains it: *"The Rimac C_Two is the fastest, with a 0–60 mph time of 1.8 seconds. Fastest = lowest 0–60 time."*
 
-<!-- Add a screenshot or short GIF of the app here. It's the first thing recruiters look at. -->
+<img width="1470" height="838" alt="App ss" src="https://github.com/user-attachments/assets/db5ccffd-3def-436e-b6ee-ee19fa98c2a1" />
+
 
 ---
 
