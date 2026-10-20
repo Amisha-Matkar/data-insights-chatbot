@@ -6,8 +6,7 @@ Ask questions about **any CSV file** in plain English and get back an answer, a 
 
 **Example:** upload a car dataset and ask *"Which is the fastest car?"* → the app writes the SQL, runs it, shows the result and explains it: *"The Rimac C_Two is the fastest, with a 0–60 mph time of 1.8 seconds. Fastest = lowest 0–60 time."*
 
-<img width="1470" height="838" alt="App ss" src="https://github.com/user-attachments/assets/db5ccffd-3def-436e-b6ee-ee19fa98c2a1" />
-
+<img width="1470" height="835" alt="App ss" src="https://github.com/user-attachments/assets/a8c767e7-4707-45e9-9248-75dbfc5e444b" />
 
 ---
 
